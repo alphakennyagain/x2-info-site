@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>X2 Software Versions - Overview</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f2f4f7;
+      padding: 40px;
+      color: #333;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+      background-color: #fff;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    h1 {
+      text-align: center;
+      color: #2c3e50;
+    }
+    .version {
+      border-left: 4px solid #3498db;
+      padding-left: 20px;
+      margin-bottom: 30px;
+    }
+    .version h2 {
+      color: #2980b9;
+      margin-top: 0;
+    }
+    .note {
+      font-style: italic;
+      color: #555;
+      margin-top: 20px;
+    }
+    .footer {
+      text-align: center;
+      margin-top: 40px;
+      font-size: 0.9rem;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>X2 Software Version Overview</h1>
+
+    <div class="version">
+      <h2>X2 2025 REBORN Version</h2>
+      <p>
+        The X2 2025 REBORN is the latest version offering full functionality for both <strong>debit and credit</strong>. 
+        While not officially developed by the original creator, it has been widely used and praised for its efficiency and reliability. 
+        With a proven <strong>99% success rate</strong>, it stands out as one of the best unofficial releases currently available.
+      </p>
+    </div>
+
+    <div class="version">
+      <h2>X2 2025 EMBOSSED Version</h2>
+      <p>
+        Created by a seasoned expert with over four years of experience in credit processing, the X2 2025 EMBOSSED version has undergone extensive testing. 
+        It operates <strong>flawlessly without errors</strong>, although it may run slightly slower compared to other variants. 
+        Currently, it supports <strong>credit only</strong>, but the developer has confirmed that debit functionality will be added in future updates. 
+        It is currently still in its <em>beta phase</em>.
+      </p>
+    </div>
+
+    <div class="version">
+      <h2>X2 2024 Version</h2>
+      <p>
+        The X2 2024 version was developed by the original creator known as <strong>"MR EMV"</strong>, who built all versions from 2022 through 2024. 
+        This version remains the last functioning release under his development legacy. 
+        While it still works, it <strong>lacks compatibility with 2025 data files</strong> and may not support the latest systems or formats.
+      </p>
+    </div>
+
+    <p class="note">
+      ⚠️ This page is for informational purposes only. Please ensure you understand the legal and technical implications before using any related software.
+    </p>
+
+    <div class="footer">
+      &copy; 2025 | Custom Software Info Page
+    </div>
+  </div>
+</body>
+</html>
